@@ -39,7 +39,7 @@ def geocode_OSM(address, bounds, email_address):
     """Send a street address to OpenStreetMap.org ("Nominatim") to find it's lat/lng coordinates.
     Parameters:
         address -- the street address to be geocoded
-        bounds -- a rectangle that biases results in the format "lat,lng|lat,lng"
+        bounds -- a rectangle that biases results in the format "lng,lat,lng,lat"
         email_address -- your email address
     Returns:
         on success -- a tuple of the coordinates and the nicely formatted address
