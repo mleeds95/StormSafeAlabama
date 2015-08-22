@@ -6,9 +6,6 @@ from urllib.request import urlopen
 from urllib.parse import urlencode
 from time import sleep
 
-GOOGLE_BASE_URL = 'https://maps.googleapis.com/maps/api/geocode/json?'
-OSM_BASE_URL = 'http://open.mapquestapi.com/nominatim/v1/search.php?'
-
 def geocode_Google(address, bounds, api_key):
     """Send a street address to Google to find its lat/lng coordinates.
     Parameters:
@@ -20,6 +17,7 @@ def geocode_Google(address, bounds, api_key):
         on failure -- a string describing the reason for the failure
     See https://developers.google.com/maps/documentation/geocoding/
     """
+    GOOGLE_BASE_URL = 'https://maps.googleapis.com/maps/api/geocode/json?'
     params = {'address': address, 
               'bounds': bounds,
               'key': api_key}
@@ -33,8 +31,6 @@ def geocode_Google(address, bounds, api_key):
     else:
         return reply['status']
 
-# uses the OpenStreetMap.org "Nominatim" geocoding service via MapQuest
-# return values should match the format that the Google Maps function returns
 def geocode_OSM(address, bounds, email_address):
     """Send a street address to OpenStreetMap.org ("Nominatim") to find it's lat/lng coordinates.
     Parameters:
@@ -46,6 +42,7 @@ def geocode_OSM(address, bounds, email_address):
         on failure -- a string describing the reason for the failure
     See http://wiki.openstreetmap.org/wiki/Nominatim
     """
+    OSM_BASE_URL = 'http://open.mapquestapi.com/nominatim/v1/search.php?'
     params = {'q': address,
               'format': 'json',
               'email': email_address,
@@ -63,6 +60,4 @@ def geocode_OSM(address, bounds, email_address):
     except (IndexError, KeyError):
         result = 'NO_RESULTS_FOUND'
     return result
-
-__all__ = ['geocode_Google', 'geocode_OSM']
 
