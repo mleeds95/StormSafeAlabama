@@ -5,6 +5,7 @@ __author__='mleeds95'
 from urllib.request import urlopen
 from urllib.parse import urlencode
 from time import sleep
+import json
 
 def geocode_Google(address, bounds, api_key):
     """Send a street address to Google to find its lat/lng coordinates.
@@ -24,7 +25,7 @@ def geocode_Google(address, bounds, api_key):
     url = GOOGLE_BASE_URL + urlencode(params, safe='/,|')
     rawreply = urlopen(url).read()
     reply = json.loads(rawreply.decode('utf-8'))
-    sleep(0.1) # stay under usage limit
+    sleep(0.2) # stay under usage limit
     # assume the first result is correct
     if reply['status'] == 'OK':
         return (reply['results'][0]['geometry']['location'], reply['results'][0]['formatted_address'])
