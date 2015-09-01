@@ -16,7 +16,7 @@ def main():
         for row in reader:
             coords = row['Geocoding']
             if len(coords) > 0:
-                point = geojson.Point((float(coords.split(',')[0]), float(coords.split(',')[1])))
+                point = geojson.Point((float(coords.split(',')[1]), float(coords.split(',')[0])))
                 row.pop('Geocoding') # so it's not included in properties
                 feature = geojson.Feature(geometry=point, properties=row)
                 allFeatures.append(feature)
