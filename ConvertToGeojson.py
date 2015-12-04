@@ -5,8 +5,8 @@ __author__='mleeds95'
 import csv
 import geojson
 
-INFILE = 'UA_BARA_2014-08-18.csv'
-OUTFILE = 'UA_BARA_2014-08-18.geojson'
+INFILE = 'AL_BARA_DATA.csv'
+OUTFILE = 'AL_BARA_DATA.geojson'
 
 def main():
     """Convert csv -> geojson."""
