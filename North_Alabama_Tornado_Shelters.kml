@@ -1,0 +1,1095 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>North Alabama Tornado Shelters</name>
+		<description><![CDATA[Shelters open for severe weather]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>North Wood United Methodist Church</name>
+				<description><![CDATA[1129 Willis Avenue, Florence, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.681992,34.816622,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Petersville Church of Christ</name>
+				<description><![CDATA[3601 Cloverdale Road, Florence, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.692152,34.855078,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Underwood/Petersville Community Center</name>
+				<description><![CDATA[840 County Road 7, Florence, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.69006,34.873486,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stoney Point Church of Christ</name>
+				<description><![CDATA[1755 County Road 24, Florence, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.691991,34.893974,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Williams Chapel Presbyterian Church</name>
+				<description><![CDATA[6401 County Road 1, Waterloo, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.993922,34.990488,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Killen United Methodist Church</name>
+				<description><![CDATA[201 J.C. Mauldin Hwy., Killen, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.540479,34.859771,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colonial Bank</name>
+				<description><![CDATA[11250 Hwy 101, Lexington, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.371135,34.968968,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lexington Town Hall</name>
+				<description><![CDATA[377 Hwy. 101 Lexington, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.373163,34.943283,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mount Pleasant Baptist Church</name>
+				<description><![CDATA[8880 County Road 71, Lexington, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.401047,34.93462,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>First Baptist Church of Anderson</name>
+				<description><![CDATA[245 Church Street, Anderson, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.265434,34.925947,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rogersville United Methodist Church</name>
+				<description><![CDATA[701 Turner Lindsey Road]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.310452,34.840467,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rogersville Church of Christ</name>
+				<description><![CDATA[450 College Street, Rogersville, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.291098,34.826539000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>First Baptist Church of Rogersville</name>
+				<description><![CDATA[222 College Street Rogersville, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.290411,34.82816,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pleasant Hill United Methodist Church</name>
+				<description><![CDATA[Co. Rd. 222 Florence, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.77853,34.873785,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Elgin United Methodist Church</name>
+				<description><![CDATA[2743 Hwy 101 Elgin, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.391219,34.839097,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cullman County Courthouse</name>
+				<description><![CDATA[Cullman, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.844006,34.174051,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Good Shepherd United Methodist Church</name>
+				<description><![CDATA[Corner of Old Railroad Bed and Capshaw Road - Holds 100 people. Phone: 256-232-3331]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.786971,34.772076,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Clements Volunteer Fire Department</name>
+				<description><![CDATA[9158 US Hwy 72 West - Holds approx. 100 people]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.157674,34.80066,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vinemont-Providence Fire Department Station 2 and 1</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.861708,34.122925,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Town Hall at Good Hope</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.868124,34.108749,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Owens Elementary School</name>
+				<description><![CDATA[Holds 600 people]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.046609,34.856883,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>West Limestone High School</name>
+				<description><![CDATA[Holds 1,000 people]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.123857,34.93907,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Albertville City School Board of Education basement</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.209803,34.274187,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>First Baptist Church in Boaz</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.168239,34.210365,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1211 2nd Street Cherokee, AL</name>
+				<description><![CDATA[1211 2nd Street Cherokee, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.968903,34.756325,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1443 County Line Road</name>
+				<description><![CDATA[1443 County Line Road, Muscle Shoals, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.52881600000002,34.779126,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>8856 Main Street</name>
+				<description><![CDATA[8856 Main Street, Leighton, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.528967,34.701912,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1448 Jackson Highway</name>
+				<description><![CDATA[1448 Jackson Highway, Littleville, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.676531,34.59615,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Plainview High School</name>
+				<description><![CDATA[Plainview High School, Hwy<br>35 East<br>Rainsville, Alabama 35986]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-85.822138,34.483195,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Northeast Alabama Community Center</name>
+				<description><![CDATA[3733 US Hwy 411<br>Gadsden, AL 35901]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-85.938331,34.06161,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1842 Hwy 172 Hodges, AL</name>
+				<description><![CDATA[1842 Hwy 172<br>Hodges, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.929925,34.334187,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>132 Sherry Bryce Dr. Phil Campbell, AL</name>
+				<description><![CDATA[132 Sherry Bryce Dr.<br>Phil Campbell, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.71405,34.346218,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>79 Church St. Vina, AL</name>
+				<description><![CDATA[79 Church St.<br>Vina, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-88.060291,34.378066,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>627 9th Ave NW Red Bay, AL</name>
+				<description><![CDATA[627 9th Ave NW<br>Red Bay, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-88.150338,34.448512,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>640 2nd St. NE Red Bay, AL</name>
+				<description><![CDATA[640 2nd St. NE<br>Red Bay, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-88.142667,34.44622,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>204 Ash Ave. Russellville, AL</name>
+				<description><![CDATA[204 Ash Ave.<br>Russellville, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.720498,34.515203,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>511 Gaines Ave. Russellville, AL</name>
+				<description><![CDATA[511 Gaines Ave.<br>Russellville, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.731194,34.510641,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>9277 County Road 67 Langston, Al</name>
+				<description><![CDATA[9277 County Road 67 Langston, Al]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.093695,34.531344,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Roy Coffee Park 3581 Jefferson Street Courtland, Al</name>
+				<description><![CDATA[Roy Coffee Park<br>3581 Jefferson Street<br>Courtland, Al]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.29614,34.665855,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Red Bank Community Park</name>
+				<description><![CDATA[Red Bank Community Park<br>1933 County Road 314<br>Town Creek, Al]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.385265,34.768101,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mount Hope Senior Center</name>
+				<description><![CDATA[Mount Hope Senior Center<br>3142 County Road 460<br>Mt. Hope, Al 35651]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.50149,34.464285,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hillsboro Community Center</name>
+				<description><![CDATA[Hillsboro Community Center<br>11680 Main Street<br>Hillsboro, Al 35643]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.19148,34.638478,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Veterans Memorial Park</name>
+				<description><![CDATA[Veterans Memorial Park<br>6229 County Road 214<br>Trinity, AL 35673]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.171718,34.565586,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Moulton Community Center</name>
+				<description><![CDATA[Moulton Community Center<br>14201 Court Street<br>Moulton, AL 35650]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.29422,34.481576,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Town Creek Shelter</name>
+				<description><![CDATA[Town Creek Shelter<br>1025 Wallace Street<br>Town Creek, AL 35672]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.407827,34.68277,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Clements Storm Shelter</name>
+				<description><![CDATA[Clements Storm Shelter<br>9158 U.S. Hwy. 72 W.<br>Athens, AL 35611]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.952453,34.785611,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Goodsprings Storm Shelter</name>
+				<description><![CDATA[Goodsprings Storm Shelter<br>33634 AL Hwy. 99<br>Anderson, AL 35610]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.191373,34.947768,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pleasant Grove Storm Shelter</name>
+				<description><![CDATA[Pleasant Grove Storm Shelter<br>9080 Upper Snake Rd.<br>Athens, AL 35614]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.164658,34.869076,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>165 Hwy 168 Douglas, AL 35980</name>
+				<description><![CDATA[165 Hwy 168<br>Douglas, AL 35980]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.320782,34.173243,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Danville VFD</name>
+				<description><![CDATA[Danville VFD<br>5798 Hwy 36 W.<br>Decatur, AL 35619]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.08666,34.414779,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Trinity Town Hall</name>
+				<description><![CDATA[16 North Seneca Dr.<br>Trinity, AL 35673]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.092818,34.588466,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Asbury Martling</name>
+				<description><![CDATA[Asbury Martling 4059 Martling Rd, Albertville<br>(by Martling Senior Center)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.166286,34.328818,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Claysville</name>
+				<description><![CDATA[22165 US Hwy 431, Guntersville<br>(by Cedar Lodge Center)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.266848,34.417531,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Town of Douglas </name>
+				<description><![CDATA[165 Hwy 168, Douglas]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.320889,34.173545,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Georgia Mountain </name>
+				<description><![CDATA[2485 Georgia Mtn. Road<br>Guntersville, AL 35976<br>(Across from Ga. Mtn. VFD)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.370531,34.388947,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Grant</name>
+				<description><![CDATA[307 2nd Ave West, Grant<br>(by Grant Recreation Center)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.255937,34.524405,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Grant (2)</name>
+				<description><![CDATA[21 1st Ave West, Grant<br>(by D2 Shop)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.253566,34.523671,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hebron</name>
+				<description><![CDATA[90 Hebron School Rd, Grant<br>(by Hebron VFD)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.381088,34.487272,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mt. Pleasant</name>
+				<description><![CDATA[5743 Simpson Point Rd, Grant]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.310042,34.501685,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nixon Chapel</name>
+				<description><![CDATA[7925 Nixon Chapel Rd, Horton<br>(by Nixon Chapel VFD)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.38568,34.202885,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pleasant Grove</name>
+				<description><![CDATA[275 Section Line Road, Albertville<br>(by Pleasant Grove VFD)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.340823,34.258023,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Riverview</name>
+				<description><![CDATA[1345 Cha-La-Kee Road, Guntersville<br>(by Riverview Campground)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.345072,34.382785,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Scant City</name>
+				<description><![CDATA[3850 Eddy Scant Rd, Arab<br>(by D1 Shop)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.44047300000001,34.36062,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Swearengin </name>
+				<description><![CDATA[5120 Swearengin Rd, Swearengin<br>(by Swearengin VFD)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.18403200000002,34.56609,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Town of Union Grove </name>
+				<description><![CDATA[3680 Union Grove Rd, Union Grove<br>(by Union Grove Town Hall)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.446298,34.400235,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wakefield </name>
+				<description><![CDATA[777 South Sauty Rd, Langston<br>(by Wakefield VFD)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.175545,34.451785,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Whitesville </name>
+				<description><![CDATA[118 Whitesville Church Rd, Boaz]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.24464700000001,34.172308,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>69 County Road 296</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=34.566086,-87.225129&thumb=0" height="200" width="auto" /><br><br>Hillsboro, AL 35643]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=34.566086,-87.225129&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.225129,34.566086,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Park Ave</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=34.989796,-86.838692&thumb=0" height="200" width="auto" /><br><br>Ardmore, AL 35739]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=34.989796,-86.838692&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.838692,34.989796,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>69 County Road 296</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=34.566086,-87.225129&thumb=0" height="200" width="auto" /><br><br>Hillsboro, AL 35643]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=34.566086,-87.225129&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.225129,34.566086,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15199 Brownsferry Rd</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=34.751354,-87.035785&thumb=0" height="200" width="auto" /><br><br>Athens, AL 35611]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=34.751354,-87.035785&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.035785,34.751354,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>116 W 5th St</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=34.732474,-87.704567&thumb=0" height="200" width="auto" /><br><br>Tuscumbia, AL 35674]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=34.732474,-87.704567&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.704567,34.732474,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>914 S Hickory St</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=34.724554,-87.692278&thumb=0" height="200" width="auto" /><br><br>Tuscumbia, AL 35674]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=34.724554,-87.692278&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.692278,34.724554000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Denton Rd</name>
+				<description><![CDATA[Tuscumbia, AL 35674]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.65242100000002,34.697999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4639 Alabama 247</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=34.628284,-87.904044&thumb=0" height="200" width="auto" /><br><br>Tuscumbia, AL 35674]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=34.628284,-87.904044&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.904044,34.628284,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1341 Alabama Ave</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=34.740327,-87.638232&thumb=0" height="200" width="auto" /><br><br>Muscle Shoals, AL 35661]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=34.740327,-87.638232&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.638232,34.740327,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colbert County Rose Trail Park</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-88.086494,34.857273,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12491 County Line Rd</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=34.755134,-87.529268&thumb=0" height="200" width="auto" /><br><br>Leighton, AL 35646]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=34.755134,-87.529268&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.529268,34.755134,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30306 Lester Rd</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=34.990612,-87.152959&thumb=0" height="200" width="auto" /><br><br>Lester, AL 35647]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=34.990612,-87.152959&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.152959,34.990612,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>U.S. Space &amp; Rocket Ctr.</name>
+				<description><![CDATA[1 Tranquility Base, Huntsville, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.65359000000001,34.711226,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harvest Youth Club</name>
+				<description><![CDATA[230 Lockhart Road, Harvest, AL]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.88840200000001,34.455403,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Red Bay City Hall</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-88.14283,34.440999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ark of Promise Apostolic Church</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-87.035838,34.75142,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Flint River Baptist Church</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.57278100000002,34.890833,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>James Clemens High School</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.78676000000002,34.705815,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Asbury United Methodist Church</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.742644,34.729963,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parker Chapel United Methodist Church</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.810856,34.714059,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hopewell Missionary Baptist Church</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.423343,34.900919,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>New Hope Methodist</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.398216,34.539887,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Somerville Public Library</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.798897,34.473684,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cut-Off Rd</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=34.458622,-86.799234&thumb=0" height="200" width="auto" /><br><br>Somerville, AL 35670]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=34.458622,-86.799234&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-86.799234,34.458622,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-123-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-123-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-123'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-123-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-123-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-123-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-123-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-123-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-123-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-123-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-22-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-22-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-22'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-22-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-22-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-22-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-22-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-22-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-22-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-22-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
