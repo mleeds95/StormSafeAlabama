@@ -1,6 +1,9 @@
 #!/usr/bin/python3
 
-__author__='mleeds95'
+# These are functions useful for translating coordinates to and from addresses
+# using Google and OpenStreetMaps.
+
+__author__='mwleeds'
 
 from urllib.request import urlopen
 from urllib.parse import urlencode
@@ -31,6 +34,29 @@ def geocode_Google(address, bounds, api_key):
         return (reply['results'][0]['geometry']['location'], reply['results'][0]['formatted_address'])
     else:
         return reply['status']
+
+def reverse_geocode_Google(lat_long, api_key):
+    """Send a latitude and longitude to Google to find the nearest street address to it.
+    Parameters:
+        lat_long -- coordinates in the format 'lat,long'
+        api_key -- your API key from the Google API Console
+    Returns:
+        on success: -- a tuple with True and a nicely formatted address
+        on failure: -- a tuple with False and the reason for failure
+    See https://developers.google.com/maps/documentation/geocoding/
+    """
+    GOOGLE_BASE_URL = 'https://maps.googleapis.com/maps/api/geocode/json?'
+    params = {'latlng': lat_long,
+              'key': api_key}
+    url = GOOGLE_BASE_URL + urlencode(params, safe='/,|')
+    rawreply = urlopen(url).read()
+    reply = json.loads(rawreply.decode('utf-8'))
+    sleep(0.2) # stay under usage limit
+    # assume the first result is correct
+    if reply['status'] == 'OK':
+        return (True, reply['results'][0]['formatted_address'])
+    else:
+        return (False, reply['status'])
 
 def geocode_OSM(address, bounds, email_address):
     """Send a street address to OpenStreetMap.org ("Nominatim") to find it's lat/lng coordinates.
